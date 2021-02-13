@@ -1,0 +1,2 @@
+# NinjaBot
+NinjaBot | Server Moderation
